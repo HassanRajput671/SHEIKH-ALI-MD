@@ -13,13 +13,13 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     try {
         let dec = `╭━━━〔 *Scammers's Numbers* 〕━━━┈⊷
 ┃★╭────────────๏
-┃★│ BC tatta 1🖕🏻: +92 309 2342318
-┃★│ BC tatta 2🖕🏻: +92 309 4230218
-┃★│ BC tatta 3🖕🏻: +92 320 2231275
-┃★│ BC tatta 4🖕🏻:+92 330 4093758
-┃★│ BC tatta 1🖕🏻: +44 7715 929714
-┃★│ BC tatta 6🖕🏻: +92 313 4885399
-┃★│ BC gashti🖕🏻🫦: +92 329 9539369
+┃★│ BC tatta 1🖕🏻: https://api.whatsapp.com/send?phone=923092342318&text=hi_bc_scammer🖕🏻
+┃★│ BC tatta 2🖕🏻: https://api.whatsapp.com/send?phone=923094230218&text=hi_bc_scammer🖕🏻
+┃★│ BC tatta 3🖕🏻: https://api.whatsapp.com/send?phone=923202231275&text=hi_bc_scammer🖕🏻
+┃★│ BC tatta 4🖕🏻: https://api.whatsapp.com/send?phone=923304093758&text=hi_bc_scammer🖕🏻
+┃★│ BC tatta 1🖕🏻: https://api.whatsapp.com/send?phone=447715929714&text=hi_bc_scammer🖕🏻
+┃★│ BC tatta 6🖕🏻: https://api.whatsapp.com/send?phone=923134885399&text=hi_bc_scammer🖕🏻
+┃★│ BC gashti🖕🏻🫦: https://api.whatsapp.com/send?phone=923299539369&text=hi_bc_scammer🖕🏻
 ┃★╰────────────┈⊷
 ╰━━━━━━━━━━━━━━━┈⊷
 
