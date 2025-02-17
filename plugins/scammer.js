@@ -17,7 +17,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃★│ BC tatta 2🖕🏻: https://api.whatsapp.com/send?phone=923094230218&text=hi_bc_scammer🖕🏻
 ┃★│ BC tatta 3🖕🏻: https://api.whatsapp.com/send?phone=923202231275&text=hi_bc_scammer🖕🏻
 ┃★│ BC tatta 4🖕🏻: https://api.whatsapp.com/send?phone=923304093758&text=hi_bc_scammer🖕🏻
-┃★│ BC tatta 1🖕🏻: https://api.whatsapp.com/send?phone=447715929714&text=hi_bc_scammer🖕🏻
+┃★│ BC tatta 5🖕🏻: https://api.whatsapp.com/send?phone=447715929714&text=hi_bc_scammer🖕🏻
 ┃★│ BC tatta 6🖕🏻: https://api.whatsapp.com/send?phone=923134885399&text=hi_bc_scammer🖕🏻
 ┃★│ BC gashti🖕🏻🫦: https://api.whatsapp.com/send?phone=923299539369&text=hi_bc_scammer🖕🏻
 ┃★╰────────────┈⊷
